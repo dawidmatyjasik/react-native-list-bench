@@ -1,0 +1,256 @@
+steps:
+  - echo: Chat order - 15 flicks into history, a pause, then 15 flicks back to the newest
+  - tool: run-sequence
+    args:
+      steps:
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+  - tool: run-sequence
+    args:
+      steps:
+        - tool: gesture-tap
+          args:
+            x: 0.5
+            y: 0.5
+          delayMs: 1500
+  - tool: run-sequence
+    args:
+      steps:
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500

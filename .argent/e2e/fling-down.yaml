@@ -1,0 +1,125 @@
+steps:
+  - echo: Fast scrolling - 15 flicks down that keep the list moving, about 9 s
+  - tool: run-sequence
+    args:
+      steps:
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.85
+            toX: 0.5
+            toY: 0.2
+            durationMs: 90
+          delayMs: 500

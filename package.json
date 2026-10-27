@@ -1,0 +1,43 @@
+{
+  "name": "swm-list-bench",
+  "main": "expo-router/entry",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "lint": "ESLINT_FLAGS=unstable_native_nodejs_ts_config expo lint"
+  },
+  "dependencies": {
+    "@legendapp/list": "^3.7.0",
+    "@shopify/flash-list": "^2.3.3",
+    "expo": "~58.0.19",
+    "expo-constants": "~58.0.13",
+    "expo-image": "~58.0.17",
+    "expo-linking": "~58.0.14",
+    "expo-router": "~58.0.26",
+    "expo-splash-screen": "~58.0.11",
+    "expo-status-bar": "~58.0.4",
+    "expo-system-ui": "~58.0.6",
+    "react": "19.3.0",
+    "react-native": "0.88.0",
+    "react-native-safe-area-context": "~5.10.1",
+    "react-native-screens": "~4.30.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "@types/react": "~19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-expo": "~58.0.4",
+    "typescript": "~6.0.3"
+  },
+  "private": true,
+  "packageManager": "pnpm@12.15.0",
+  "expo": {
+    "install": {
+      "exclude": [
+        "@shopify/flash-list"
+      ]
+    }
+  }
+}

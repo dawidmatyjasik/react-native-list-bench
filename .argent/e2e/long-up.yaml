@@ -1,0 +1,965 @@
+steps:
+  - echo: A long session - 120 flicks up, about 70 s
+  - tool: run-sequence
+    args:
+      steps:
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
+        - tool: gesture-swipe
+          args:
+            fromX: 0.5
+            fromY: 0.2
+            toX: 0.5
+            toY: 0.85
+            durationMs: 90
+          delayMs: 500
